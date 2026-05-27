@@ -1,7 +1,8 @@
-# ocr-catalogo
+# Leitura Imagens - Extrair textos
 
 ## Passo 1: Instale o pytesseract e o pillow
 pip install pytesseract
+
 pip install Pillow
 
 ## Passo 2: Instale o Tesseract-OCR (programa externo)
